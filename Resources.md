@@ -14,5 +14,6 @@
 - Wang et al., [Barycentric weights...classical orthogonal polynomials](https://arxiv.org/pdf/1202.0154.pdf) (2012)
 - Townsend & Hale, [Fast Chebyshev-Legendre transform](http://www.chebfun.org/examples/cheb/FastChebyshevLegendreTransform.html) (2013)
 - Brass & Petras, [Quadrature Theory](https://bookstore.ams.org/surv-178) (2011), also https://bookstore.ams.org/surv-178/372
+- Lietuvietis, [Integration Matrix Defined by Chebyshev Differentiation Matrix](https://www.lu.lv/fileadmin/user_upload/lu_portal/projekti/mma2015/MMAtezes/Lietuvietis.pdf) (2015)
 
 > Written with [StackEdit](https://stackedit.io/).
