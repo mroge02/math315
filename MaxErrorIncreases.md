@@ -1,3 +1,4 @@
+*[Reply to this [Mmm.SE question](https://mathematica.stackexchange.com/questions/212167/how-much-can-we-trust-nintegrate-when-nintegrateeincr-is-shown)]*
 
 ## Introduction
 
