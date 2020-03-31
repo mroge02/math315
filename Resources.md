@@ -1,10 +1,22 @@
 
-# Resources
+# Resources for Numerical Analysis
 
 ## Matlab
 
 - Higham & Higham, [MATLAB](https://epubs-siam-org.proxy.library.emory.edu/doi/book/10.1137/1.9781611974669)
 - "Publish" formatting: https://www.mathworks.com/help/matlab/matlab_prog/marking-up-matlab-comments-for-publishing.html
+
+## History
+
+- [# A Chronology of Interpolation](https://imagescience.org/meijering/research/chronology/)
+
+## Projects and problems
+
+- [Misc. problem sets](https://www2.math.ethz.ch/education/bachelor/lectures/hs2015/math/nummath_cse/problemsheets/ProblemSheets2015.pdf)
+- [Polynomial interpolation](https://people.sc.fsu.edu/~jpeterson/ProjectIII.pdf
+- [Cubic spline](https://www.csun.edu/~ama5348/csun2007s/math481a/sp2.pdf)
+- [Polynomial interpolation and approximation (Runge's example)](http://math.sjtu.edu.cn/faculty/xuzl/iam/project1.pdf)
+- [Polynomial interpolation and approximation $\tan(\sin t^3)$](https://www.studocu.com/en-us/document/george-mason-university/numerical-analysis/assignments/project-7-using-polynomial-interpolation-to-approximate-a-transcendental-function/1186048/view)
 
 ## Misc
 
@@ -16,5 +28,7 @@
 - Townsend & Hale, [Fast Chebyshev-Legendre transform](http://www.chebfun.org/examples/cheb/FastChebyshevLegendreTransform.html) (2013)
 - Brass & Petras, [Quadrature Theory](https://bookstore.ams.org/surv-178) (2011), also https://bookstore.ams.org/surv-178/372
 - Lietuvietis, [Integration Matrix Defined by Chebyshev Differentiation Matrix](https://www.lu.lv/fileadmin/user_upload/lu_portal/projekti/mma2015/MMAtezes/Lietuvietis.pdf) (2015)
+- [Neural networks and function approximation (Google search)](https://www.google.com/search?q=neural+networks+and+function+approximation+&oq=neural+networks+and+function+approximation)
+- [neural networks radial basis function](https://www.google.com/search?q=neural+networks+radial+basis+function)
 
 > Written with [StackEdit](https://stackedit.io/).
