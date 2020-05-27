@@ -13,7 +13,7 @@
 ## Projects and problems
 
 - [Misc. problem sets](https://www2.math.ethz.ch/education/bachelor/lectures/hs2015/math/nummath_cse/problemsheets/ProblemSheets2015.pdf)
-- [Polynomial interpolation](https://people.sc.fsu.edu/~jpeterson/ProjectIII.pdf
+- [Polynomial interpolation](https://people.sc.fsu.edu/~jpeterson/ProjectIII.pdf)
 - [Cubic spline](https://www.csun.edu/~ama5348/csun2007s/math481a/sp2.pdf)
 - [Polynomial interpolation and approximation (Runge's example)](http://math.sjtu.edu.cn/faculty/xuzl/iam/project1.pdf)
 - [Polynomial interpolation and approximation $\tan(\sin t^3)$](https://www.studocu.com/en-us/document/george-mason-university/numerical-analysis/assignments/project-7-using-polynomial-interpolation-to-approximate-a-transcendental-function/1186048/view)
@@ -30,5 +30,15 @@
 - Lietuvietis, [Integration Matrix Defined by Chebyshev Differentiation Matrix](https://www.lu.lv/fileadmin/user_upload/lu_portal/projekti/mma2015/MMAtezes/Lietuvietis.pdf) (2015)
 - [Neural networks and function approximation (Google search)](https://www.google.com/search?q=neural+networks+and+function+approximation+&oq=neural+networks+and+function+approximation)
 - [neural networks radial basis function](https://www.google.com/search?q=neural+networks+radial+basis+function)
+
+## Reading assignments
+
+Review the article (and tweet?). What you need to know/learn to understand the article?  [Other Qs TBD...]
+
+- [Atomic Decomposition by Basis Pursuit](https://epubs.siam.org/doi/abs/10.1137/S1064827596304010) from [G Peyré tweet](https://twitter.com/i/topics/tweet/1265508026573901824?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email)
+- N. Higham, [Computing Real Square Roots of a Real Matrix*](https://core.ac.uk/download/pdf/82307548.pdf) from [G Peyré tweet](https://twitter.com/gabrielpeyre/status/1264120729324400642?ref_src=twsrc%5Etfw)
+- [Frank–Wolfe algorithm](https://onlinelibrary.wiley.com/doi/abs/10.1002/nav.3800030109) for quadratic programming from [G Peyré tweet](https://twitter.com/gabrielpeyre/status/1264058476927451137); https://doi.org/10.1002%2Fnav.3800030109
+- Spectral clustering, Jianbo Shi and Jitendra Malik, ["Normalized Cuts and Image Segmentation"](http://www.cs.berkeley.edu/~malik/papers/SM-ncut.pdf), IEEE Transactions on PAMI, Vol. 22, No. 8, Aug 2000; from [G Peyré tweet](https://twitter.com/gabrielpeyre/status/1263333700248338432)
+- D. T. Lee and F. Preparata. [An optimal algorithm for finding the kernel of a polygon.](https://dl.acm.org/doi/pdf/10.1145/322139.322142) Journal of the ACM, 26, 1979.  From [G Peyré tweet](https://twitter.com/gabrielpeyre/status/1262971312751833093)
 
 > Written with [StackEdit](https://stackedit.io/).
