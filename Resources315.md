@@ -30,6 +30,7 @@
 - Lietuvietis, [Integration Matrix Defined by Chebyshev Differentiation Matrix](https://www.lu.lv/fileadmin/user_upload/lu_portal/projekti/mma2015/MMAtezes/Lietuvietis.pdf) (2015)
 - [Neural networks and function approximation (Google search)](https://www.google.com/search?q=neural+networks+and+function+approximation+&oq=neural+networks+and+function+approximation)
 - [neural networks radial basis function](https://www.google.com/search?q=neural+networks+radial+basis+function)
+- [Herbie: automatically improving floating point accuracy](https://herbie.uwplse.org/). Software for rewriting formulas.
 
 ## Reading assignments
 
@@ -44,5 +45,5 @@ Review the article (and tweet?). What you need to know/learn to understand the a
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY4MzU4NF19
+eyJoaXN0b3J5IjpbMTk5Mzc0MDM1XX0=
 -->
