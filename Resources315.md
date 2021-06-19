@@ -34,6 +34,8 @@
 
 ### TBD
 
+ - Chebyshev-Lagrange transform, https://www.chebfun.org/examples/cheb/FastDLT.html
+ - 
  - https://www.google.com/search?q=determining+rational+number+from+floating+point+approximation&client=safari&rls=en&sxsrf=ALeKk00Qod4WzM5lpVgHTWKkxE35hxGIvQ:1608694545496&ei=EbviX4HSHcGMsQWQlK-oCA&start=40&sa=N&ved=2ahUKEwjBnr6XluPtAhVBRqwKHRDKC4U4HhDw0wN6BAgJEEg&biw=1163&bih=939
  - https://www.sciencedirect.com/science/article/pii/S0166218X09000894
  - https://mathscinet-ams-org.proxy.library.emory.edu/mathscinet/search/publications.html?arg3=&co4=AND&co5=AND&co6=AND&co7=AND&dr=all&pg4=AUCN&pg5=PC&pg6=CC&pg7=ALLF&pg8=ET&review_format=html&s4=&s5=&s6=11K50&s7=real&s8=All&sort=Newest&vfpref=html&yearRangeFirst=&yearRangeSecond=&yrop=eq&r=21
