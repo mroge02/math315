@@ -32,6 +32,15 @@
 - [neural networks radial basis function](https://www.google.com/search?q=neural+networks+radial+basis+function)
 - [Herbie: automatically improving floating point accuracy](https://herbie.uwplse.org/). Software for rewriting formulas.
 
+### TBD
+
+ - https://www.google.com/search?q=determining+rational+number+from+floating+point+approximation&client=safari&rls=en&sxsrf=ALeKk00Qod4WzM5lpVgHTWKkxE35hxGIvQ:1608694545496&ei=EbviX4HSHcGMsQWQlK-oCA&start=40&sa=N&ved=2ahUKEwjBnr6XluPtAhVBRqwKHRDKC4U4HhDw0wN6BAgJEEg&biw=1163&bih=939
+ - https://www.sciencedirect.com/science/article/pii/S0166218X09000894
+ - https://mathscinet-ams-org.proxy.library.emory.edu/mathscinet/search/publications.html?arg3=&co4=AND&co5=AND&co6=AND&co7=AND&dr=all&pg4=AUCN&pg5=PC&pg6=CC&pg7=ALLF&pg8=ET&review_format=html&s4=&s5=&s6=11K50&s7=real&s8=All&sort=Newest&vfpref=html&yearRangeFirst=&yearRangeSecond=&yrop=eq&r=21
+ - https://mathscinet-ams-org.proxy.library.emory.edu/msnhtml/msc2020.pdf
+ - https://www.ams.org/journals/mcom/1983-40-161/S0025-5718-1983-0679450-2/S0025-5718-1983-0679450-2.pdf
+
+
 ## Reading assignments
 
 Review the article (and tweet?). What you need to know/learn to understand the article?  [Other Qs TBD...]
