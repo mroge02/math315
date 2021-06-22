@@ -6,6 +6,12 @@
 - Higham & Higham, [MATLAB](https://epubs-siam-org.proxy.library.emory.edu/doi/book/10.1137/1.9781611974669)
 - "Publish" formatting: https://www.mathworks.com/help/matlab/matlab_prog/marking-up-matlab-comments-for-publishing.html
 
+## Numerics
+
+- Vector angle (Kahan), https://mathematica.stackexchange.com/a/97854/4999
+- Polynomial integration (Kahan), https://mathematica.stackexchange.com/a/184119/4999
+- [Kahan, Miscalculating Area and Angles of a Needle-like Triangle](https://people.eecs.berkeley.edu/~wkahan/Triangle.pdf)
+
 ## History
 
 - [# A Chronology of Interpolation](https://imagescience.org/meijering/research/chronology/)
