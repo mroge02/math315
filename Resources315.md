@@ -53,6 +53,7 @@
 - [Neural networks and function approximation (Google search)](https://www.google.com/search?q=neural+networks+and+function+approximation+&oq=neural+networks+and+function+approximation)
 - [neural networks radial basis function](https://www.google.com/search?q=neural+networks+radial+basis+function)
 - [Herbie: automatically improving floating point accuracy](https://herbie.uwplse.org/). Software for rewriting formulas.
+- `osascript -e{'set text item delimiters to linefeed','tell app"safari"to(url of tabs of window 1)as text'} > /tmp/foo.txt`
 
 ### TBD
 
