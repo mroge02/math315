@@ -76,6 +76,10 @@ Review the article (and tweet?). What you need to know/learn to understand the a
 - Spectral clustering, Jianbo Shi and Jitendra Malik, ["Normalized Cuts and Image Segmentation"](http://www.cs.berkeley.edu/~malik/papers/SM-ncut.pdf), IEEE Transactions on PAMI, Vol. 22, No. 8, Aug 2000; from [G Peyré tweet](https://twitter.com/gabrielpeyre/status/1263333700248338432)
 - D. T. Lee and F. Preparata. [An optimal algorithm for finding the kernel of a polygon.](https://dl.acm.org/doi/pdf/10.1145/322139.322142) Journal of the ACM, 26, 1979.  From [G Peyré tweet](https://twitter.com/gabrielpeyre/status/1262971312751833093)
 
+## Computing machines
+
+- [IBM z15 (2021)](https://www.google.com/books/edition/IBM_z15_8561_Technical_Guide/M_TKDwAAQBAJ?hl=en&gbpv=0) with Decimal Floating-Point Accelerator.
+
 ### TBD
 
  - https://www.quantamagazine.org/quantas-year-in-math-and-computer-science-2020-20201223
