@@ -80,6 +80,7 @@ Review the article (and tweet?). What you need to know/learn to understand the a
 
 - [IBM z15 (2021)](https://www.google.com/books/edition/IBM_z15_8561_Technical_Guide/M_TKDwAAQBAJ?hl=en&gbpv=0) with Decimal Floating-Point Accelerator.
 - [Intel C compiler FP formats](https://software.intel.com/content/www/us/en/develop/documentation/cpp-compiler-developer-guide-and-reference/top/compiler-reference/floating-point-operations/understanding-ieee-floating-point-operations/floating-point-formats.html) (incl. decimal)
+- [HP Saturn](https://en.wikipedia.org/wiki/HP_Saturn) (BCD FP)
 
 ### TBD
 
