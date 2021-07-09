@@ -13,14 +13,15 @@
 - [Kahan, Miscalculating Area and Angles of a Needle-like Triangle](https://people.eecs.berkeley.edu/~wkahan/Triangle.pdf)
 - [Higham, Accuracy and Stability of Numerical Algorithms](https://epubs-siam-org.proxy.library.emory.edu/doi/book/10.1137/1.9780898718027)
 - [Einarsson, Accuracy and Reliability in Scientific Computing](https://epubs-siam-org.proxy.library.emory.edu/doi/book/10.1137/1.9780898718157)
-- Disasters:
- * [GAO Patriot Missile](https://www.gao.gov/assets/imtec-92-26.pdf), [Arnold, Patriot sumary](http://www-users.math.umn.edu/~arnold//disasters/patriot.html), [Skeel, Patriot, SIAM News](http://www-users.math.umn.edu/~arnold//disasters/Patriot-dharan-skeel-siam.pdf)
- * https://my.eng.utah.edu/~cfurse/ece6340/LECTURE/links/Embarrassments%20due%20to%20rounding%20error.htm
- * https://science.sciencemag.org/content/255/5050/1347
- * http://ta.twi.tudelft.nl/users/vuik/wi211/disasters.html
 - https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-19/issue-2/A-critique-of-numerical-analysis/bams/1183554721.full
 - [Interview with Kahan re IEEE p754](https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html) and [here](http://www.dr-chuck.com/dr-chuck/papers/columns/r3114.pdf) and at [IEEE Exploore](https://ieeexplore.ieee.org/document/660194)
-- https://web.archive.org/web/20031003184846/http://www.siam.org/siamnews/general/ariane.htm
+
+Disasters:
+- Patriot disaster, 25 Feb 1991, [GAO Patriot Missile](https://www.gao.gov/assets/imtec-92-26.pdf), [Arnold, Patriot sumary](http://www-users.math.umn.edu/~arnold//disasters/patriot.html), [Skeel, Patriot, SIAM News](http://www-users.math.umn.edu/~arnold//disasters/Patriot-dharan-skeel-siam.pdf)
+- https://my.eng.utah.edu/~cfurse/ece6340/LECTURE/links/Embarrassments%20due%20to%20rounding%20error.htm
+- https://science.sciencemag.org/content/255/5050/1347
+- http://ta.twi.tudelft.nl/users/vuik/wi211/disasters.html
+- Ariane, https://web.archive.org/web/20031003184846/http://www.siam.org/siamnews/general/ariane.htm
 
 
 ## Linear Algebra
