@@ -18,7 +18,7 @@
 - https://science.sciencemag.org/content/255/5050/1347
 - http://ta.twi.tudelft.nl/users/vuik/wi211/disasters.html
 - https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-19/issue-2/A-critique-of-numerical-analysis/bams/1183554721.full
-- [Interview with Kahan re IEEE p754](https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html)
+- [Interview with Kahan re IEEE p754](https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html) and [here](http://www.dr-chuck.com/dr-chuck/papers/columns/r3114.pdf) and at [IEEE Exploore](https://ieeexplore.ieee.org/document/660194)
 - https://web.archive.org/web/20031003184846/http://www.siam.org/siamnews/general/ariane.htm
 
 
