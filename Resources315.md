@@ -17,9 +17,12 @@
 - [Interview with Kahan re IEEE p754](https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html) and [here](http://www.dr-chuck.com/dr-chuck/papers/columns/r3114.pdf) and at [IEEE Exploore](https://ieeexplore.ieee.org/document/660194)
 
 Disasters:
-- Patriot disaster, 25 Feb 1991, [GAO Patriot Missile](https://www.gao.gov/assets/imtec-92-26.pdf), [Arnold, Patriot sumary](http://www-users.math.umn.edu/~arnold//disasters/patriot.html), [Skeel, Patriot, SIAM News](http://www-users.math.umn.edu/~arnold//disasters/Patriot-dharan-skeel-siam.pdf)
+- Patriot disaster, 25 Feb 1991, 
+    - [GAO Patriot Missile](https://www.gao.gov/assets/imtec-92-26.pdf)
+    - [Arnold, Patriot sumary](http://www-users.math.umn.edu/~arnold//disasters/patriot.html)
+    - [Skeel, Patriot, SIAM News](http://www-users.math.umn.edu/~arnold//disasters/Patriot-dharan-skeel-siam.pdf)
+    - https://science.sciencemag.org/content/255/5050/1347
 - https://my.eng.utah.edu/~cfurse/ece6340/LECTURE/links/Embarrassments%20due%20to%20rounding%20error.htm
-- https://science.sciencemag.org/content/255/5050/1347
 - http://ta.twi.tudelft.nl/users/vuik/wi211/disasters.html
 - Ariane, https://web.archive.org/web/20031003184846/http://www.siam.org/siamnews/general/ariane.htm
 
