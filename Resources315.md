@@ -22,8 +22,9 @@ Disasters:
     - [Arnold, Patriot sumary](http://www-users.math.umn.edu/~arnold//disasters/patriot.html)
     - [Skeel, Patriot, SIAM News](http://www-users.math.umn.edu/~arnold//disasters/Patriot-dharan-skeel-siam.pdf)
     - https://science.sciencemag.org/content/255/5050/1347
-- https://my.eng.utah.edu/~cfurse/ece6340/LECTURE/links/Embarrassments%20due%20to%20rounding%20error.htm
-- http://ta.twi.tudelft.nl/users/vuik/wi211/disasters.html
+- Collections:
+    - https://my.eng.utah.edu/~cfurse/ece6340/LECTURE/links/Embarrassments%20due%20to%20rounding%20error.htm
+    - http://ta.twi.tudelft.nl/users/vuik/wi211/disasters.html
 - Ariane, https://web.archive.org/web/20031003184846/http://www.siam.org/siamnews/general/ariane.htm
 
 
