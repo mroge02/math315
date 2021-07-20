@@ -34,6 +34,10 @@ Disasters:
 - [The Matrix Computation Toolbox](http://www.ma.man.ac.uk/~higham/mctoolbox/)
 - [Higham, Accuracy and Stability of Numerical Algorithms](https://epubs-siam-org.proxy.library.emory.edu/doi/book/10.1137/1.9780898718027)
 
+## Interpolation
+
+- [Interpolation on the unit circle (DFT)](http://www.math.kent.edu/~reichel/courses/intr.num.comp.2/spring09/last.semester/fft/dft/dft.pdf)
+
 ## History
 
 - [# A Chronology of Interpolation](https://imagescience.org/meijering/research/chronology/)
