@@ -15,6 +15,7 @@
 - [Einarsson, Accuracy and Reliability in Scientific Computing](https://epubs-siam-org.proxy.library.emory.edu/doi/book/10.1137/1.9780898718157)
 - https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-19/issue-2/A-critique-of-numerical-analysis/bams/1183554721.full
 - [Interview with Kahan re IEEE p754](https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html) and [here](http://www.dr-chuck.com/dr-chuck/papers/columns/r3114.pdf) and at [IEEE Exploore](https://ieeexplore.ieee.org/document/660194)
+- [Juffa & Beebe, FP Bibliography](http://ftp.math.utah.edu/pub/tex/bib/fparith.bib)
 
 Disasters:
 - Patriot disaster, 25 Feb 1991, 
