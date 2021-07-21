@@ -42,6 +42,7 @@ Disasters:
 ## History
 
 - [# A Chronology of Interpolation](https://imagescience.org/meijering/research/chronology/)
+- [Randell, The Origins of Digital Computers](http://discovere.emory.edu/primo_library/libweb/action/dlDisplay.do?vid=discovere&docId=01EMORY_ALMA21246640640002486&fromSitemap=1&afterPDS=true#) (Emory library)
 
 ## Projects and problems
 
