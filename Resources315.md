@@ -17,6 +17,7 @@
 - [Interview with Kahan re IEEE p754](https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html) and [here](http://www.dr-chuck.com/dr-chuck/papers/columns/r3114.pdf) and at [IEEE Exploore](https://ieeexplore.ieee.org/document/660194)
 - [Juffa & Beebe, FP Bibliography](http://ftp.math.utah.edu/pub/tex/bib/fparith.bib)
 - [Mantas Mikaitas Plotting Circles to Test Low Precision Arithmetics And Rounding Modes (2021)](https://nla-group.org/2021/10/11/plotting-circles-to-test-low-precision-arithmetics-and-rounding-modes/)
+- [Higham, What is Stochastic Rounding?](https://nhigham.com/2020/07/07/what-is-stochastic-rounding/)
 
 Disasters:
 - Patriot disaster, 25 Feb 1991, 
