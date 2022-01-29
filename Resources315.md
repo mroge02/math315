@@ -41,6 +41,7 @@ Disasters:
 ## Interpolation
 
 - [Interpolation on the unit circle (DFT)](http://www.math.kent.edu/~reichel/courses/intr.num.comp.2/spring09/last.semester/fft/dft/dft.pdf)
+- [Slerp](https://en.wikipedia.org/wiki/Slerp)
 
 ## History
 
