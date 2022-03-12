@@ -110,6 +110,7 @@ Review the article (and tweet?). What you need to know/learn to understand the a
  - https://blogs.scientificamerican.com/roots-of-unity/contrasts-in-number-theory/?fbclid=IwAR1QDfKsWlqzCUNkduOulcYKO1oBOpTpSwX1zSAKEyqEQus4o-DvGBnxxmc
  - https://mathenchant.wordpress.com/2016/01/16/how-to-be-wrong/?fbclid=IwAR3CoDzh6KGr_Uczmy-fGi4WWOsl66SZvGGLYnWuMDDGUKBuJLL95cv7z-U
  - https://www.nytimes.com/2021/03/06/science/math-gresham-sarah-hart.html?surface=home-discovery-vi-prg&fellback=false&req_id=484871995&algo=identity&variant=no-exp&imp_id=585816358&action=click&module=Science%20%20Technology&pgtype=Homepage
+ - Peyré, https://twitter.com/gabrielpeyre/status/1496726590058729473?cxt=HBwWgsCo5eq5uMUpAAAA&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email (approximating function on a sphere w/spherical harmonics)
 
 
 
