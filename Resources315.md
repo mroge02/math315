@@ -38,6 +38,15 @@ Disasters:
 - [Higham, Accuracy and Stability of Numerical Algorithms](https://epubs-siam-org.proxy.library.emory.edu/doi/book/10.1137/1.9780898718027)
 - [Higham, Mikaitis, Anymatrix (MATLAB Users Guide)](http://eprints.maths.manchester.ac.uk/2834/1/guide.pdf), [ref. (2021)](http://eprints.maths.manchester.ac.uk/2834/)
 
+### SVD and its applications
+
+- SVD applications of right singular vectors in physics -data - Google Search, https://www.google.com/search?q=SVD+applications+of+right+singular+vectors+in+physics+-data&client=safari&rls=en&sxsrf=APq-WBvW3VXQ9ify9hWAWaG1JIEH7kxJbw:1647276094084&ei=PnAvYo7ZBOWcptQPl-WRkAI&start=10&sa=N&ved=2ahUKEwiO8LzThcb2AhVljokEHZdyBCIQ8NMDegQIARBK&biw=1156&bih=920&dpr=2
+- https://physiology.med.cornell.edu/people/banfelder/qbio/lecture_notes/3.4_Principal_component_analysis.pdf, https://physiology.med.cornell.edu/people/banfelder/qbio/lecture_notes/3.4_Principal_component_analysis.pdf
+- SPHERICAL HARMONICS, SINGULAR-VALUE DECOMPOSITION AND THE HEAD-RELATED TRANSFER FUNCTION - ScienceDirect, https://www.sciencedirect.com/science/article/pii/S0022460X00932279
+- recomb2000.hgc.jp/Posters/pdf/98.pdf, http://recomb2000.hgc.jp/Posters/pdf/98.pdf
+- Flaps Morph for HIV Protease - Proteopedia, life in 3D, https://proteopedia.org/wiki/index.php/Flaps_Morph_for_HIV_Protease
+- Close Correspondence between the Motions from Principal Component Analysis of Multiple HIV-1 Protease Structures and Elastic Network Modes - ScienceDirect, https://www.sciencedirect.com/science/article/pii/S0969212608000117
+
 ## Interpolation
 
 - [Interpolation on the unit circle (DFT)](http://www.math.kent.edu/~reichel/courses/intr.num.comp.2/spring09/last.semester/fft/dft/dft.pdf)
