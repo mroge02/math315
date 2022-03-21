@@ -18,6 +18,7 @@
 - [Juffa & Beebe, FP Bibliography](http://ftp.math.utah.edu/pub/tex/bib/fparith.bib)
 - [Mantas Mikaitas Plotting Circles to Test Low Precision Arithmetics And Rounding Modes (2021)](https://nla-group.org/2021/10/11/plotting-circles-to-test-low-precision-arithmetics-and-rounding-modes/)
 - [Higham, What is Stochastic Rounding?](https://nhigham.com/2020/07/07/what-is-stochastic-rounding/)
+- Herbie: Find and fix floating-point problems, https://herbie.uwplse.org
 
 Disasters:
 - Patriot disaster, 25 Feb 1991, 
