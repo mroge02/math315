@@ -38,6 +38,7 @@ Disasters:
 - [The Matrix Computation Toolbox](http://www.ma.man.ac.uk/~higham/mctoolbox/)
 - [Higham, Accuracy and Stability of Numerical Algorithms](https://epubs-siam-org.proxy.library.emory.edu/doi/book/10.1137/1.9780898718027)
 - [Higham, Mikaitis, Anymatrix (MATLAB Users Guide)](http://eprints.maths.manchester.ac.uk/2834/1/guide.pdf), [ref. (2021)](http://eprints.maths.manchester.ac.uk/2834/)
+- Higham, [What is Gershgorin's Theorem](https://nhigham.com/2022/11/22/what-is-gershgorins-theorem/)
 
 ### SVD and its applications
 
