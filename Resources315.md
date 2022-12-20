@@ -54,6 +54,10 @@ Disasters:
 - [Interpolation on the unit circle (DFT)](http://www.math.kent.edu/~reichel/courses/intr.num.comp.2/spring09/last.semester/fft/dft/dft.pdf)
 - [Slerp](https://en.wikipedia.org/wiki/Slerp)
 
+## Optimization
+
+- [Why Momentum Really Works](https://distill.pub/2017/momentum/)
+
 ## History
 
 - [# A Chronology of Interpolation](https://imagescience.org/meijering/research/chronology/)
