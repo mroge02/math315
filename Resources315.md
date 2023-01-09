@@ -53,6 +53,7 @@ Disasters:
 
 - [Interpolation on the unit circle (DFT)](http://www.math.kent.edu/~reichel/courses/intr.num.comp.2/spring09/last.semester/fft/dft/dft.pdf)
 - [Slerp](https://en.wikipedia.org/wiki/Slerp)
+- Shepard interpolation, https://en.wikipedia.org/wiki/Inverse_distance_weighting
 
 ## Optimization
 
