@@ -62,6 +62,7 @@ Disasters:
 
 - [# A Chronology of Interpolation](https://imagescience.org/meijering/research/chronology/)
 - [Randell, The Origins of Digital Computers](http://discovere.emory.edu/primo_library/libweb/action/dlDisplay.do?vid=discovere&docId=01EMORY_ALMA21246640640002486&fromSitemap=1&afterPDS=true#) (Emory library)
+- Ossendrijver, Ancient Babylonian astronomers calculated Jupiter’s position from the area under a time-velocity graph, https://www-science-org.proxy.library.emory.edu/doi/10.1126/science.aad8085
 
 ## Projects and problems
 
