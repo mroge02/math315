@@ -55,6 +55,11 @@ Disasters:
 - [Slerp](https://en.wikipedia.org/wiki/Slerp)
 - Shepard interpolation, https://en.wikipedia.org/wiki/Inverse_distance_weighting
 
+## Integration
+
+- Piessens et al., Modified clenshaw-curtis method for the computation of Bessel function integrals, https://link.springer.com/article/10.1007/BF01934465
+- Piessens et al., Computation of oscillating integrals, https://www.sciencedirect.com/science/article/pii/0771050X75900339?via%3Dihub ("The integration method is based on a truncated Chebyshev series approximation....")
+
 ## Optimization
 
 - [Why Momentum Really Works](https://distill.pub/2017/momentum/)
