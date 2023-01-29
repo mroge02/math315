@@ -55,6 +55,10 @@ Disasters:
 - [Slerp](https://en.wikipedia.org/wiki/Slerp)
 - Shepard interpolation, https://en.wikipedia.org/wiki/Inverse_distance_weighting
 
+## Equation solving
+
+- Homotopy continuation method, https://www.intlpress.com/site/pub/files/_fulltext/journals/cis/2015/0015/0002/CIS-2015-0015-0002-a001.pdf
+
 ## Integration
 
 - Piessens et al., Modified clenshaw-curtis method for the computation of Bessel function integrals, https://link.springer.com/article/10.1007/BF01934465
